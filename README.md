@@ -1,2 +1,2 @@
-# INTERNSOFTcodefiles
-python code files  and movie recommender system Project
+# movie-recommender-system-tmdb-dataset
+A content based movie recommender system using cosine similarity
